@@ -1,0 +1,29 @@
+@font-face {
+    font-family: WorkSans-ExtraLight;
+    src: url(WorkSans-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: WorkSans-Light;
+    src: url(WorkSans-Light.ttf);
+}
+
+@font-face {
+    font-family: WorkSans-Medium;
+    src: url(WorkSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: WorkSans-SemiBold;
+    src: url(WorkSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: WorkSans-Bold;
+    src: url(WorkSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: WorkSans-ExtraBold;
+    src: url(WorkSans-ExtraBold.ttf);
+}
